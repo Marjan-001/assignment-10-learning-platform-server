@@ -1,0 +1,32 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "img": "https://img.freepik.com/premium-photo/java-programming-language-text_272306-133.jpg?w=400",
+        "name": "Java"
+    },
+    {
+        "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+        "img": "https://img.freepik.com/premium-photo/python-programming-language-phone-screen-with-code-elements-digital-language-3d_327483-551.jpg",
+        "name": "Python"
+    },
+    {
+        "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+        "img": "https://quocent.com/QUOCENT-CMS/userfiles/StaticBanner/1529923467_Javascript.png",
+        "name": "JavaScript"
+    },
+    {
+        "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+        "img": "https://yourstelecast.com/wp-content/uploads/2021/09/where-to-get-c-programming-help-at-a-reasonable-price.",
+        "name": "C++"
+    },
+    {
+        "id": "174e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "img": "https://i.pinimg.com/474x/77/fc/a5/77fca518c18ea242a72d26e649148567.jpg",
+        "name": "C"
+    },
+    {
+        "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+        "img": "https://logique.s3.ap-southeast-1.amazonaws.com/2021/06/apa-itu-mysql-11.jpg",
+        "name": "My SQL"
+    }
+]
