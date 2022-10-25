@@ -1,32 +1,110 @@
 [
     {
         "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "category_id": "01",
         "img": "https://img.freepik.com/premium-photo/java-programming-language-text_272306-133.jpg?w=400",
-        "name": "Java"
+        "name": "Java",
+        "details": "Complete Java course from beginner to advanced level. Learn to code or start your career in programming with online coding and programming.Master your language with lessons, quizzes, and projects designed for real-life scenarios.",
+        "price": 1000,
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "features": [
+            "Fundamental topics",
+            "Java Algorithms",
+            "Data Structure",
+            "Problem Solving"
+        ]
     },
     {
         "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+        "category_id": "02",
         "img": "https://img.freepik.com/premium-photo/python-programming-language-phone-screen-with-code-elements-digital-language-3d_327483-551.jpg",
-        "name": "Python"
+        "name": "Python",
+        "details": "Complete Python course from beginner to advanced level. Learn to code or start your career in programming with online coding and programming.Master your language with lessons, quizzes, and projects designed for real-life scenarios.",
+        "price": 500,
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "features": [
+            "Fundamental topics",
+            "Python Algorithms",
+            "Data Structure",
+            "Problem Solving"
+        ]
     },
     {
         "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+        "category_id": "03",
         "img": "https://quocent.com/QUOCENT-CMS/userfiles/StaticBanner/1529923467_Javascript.png",
-        "name": "JavaScript"
+        "name": "JavaScript",
+        "details": "Complete JavaScript course from beginner to advanced level. Learn to code or start your career in programming with online coding and programming.Master your language with lessons, quizzes, and projects designed for real-life scenarios.",
+        "price": 1000,
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "features": [
+            "Fundamental topics",
+            "JavaScript Algorithms",
+            "Data Structure",
+            "Problem Solving"
+        ]
     },
     {
         "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+        "category_id": "04",
         "img": "https://yourstelecast.com/wp-content/uploads/2021/09/where-to-get-c-programming-help-at-a-reasonable-price.",
-        "name": "C++"
+        "name": "C++",
+        "details": "Complete C++ course from beginner to advanced level. Learn to code or start your career in programming with online coding and programming.Master your language with lessons, quizzes, and projects designed for real-life scenarios.",
+        "price": 800,
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "features": [
+            "Fundamental topics",
+            " C++ Algorithm",
+            "Data Structure",
+            "Problem Solving"
+        ]
     },
     {
         "id": "174e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "category_id": "05",
         "img": "https://i.pinimg.com/474x/77/fc/a5/77fca518c18ea242a72d26e649148567.jpg",
-        "name": "C"
+        "name": "C",
+        "details": "Complete C course from beginner to advanced level. Learn to code or start your career in programming with online coding and programming.Master your language with lessons, quizzes, and projects designed for real-life scenarios.",
+        "price": 1000,
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "features": [
+            "Fundamental topics",
+            "C Algorithms",
+            "Data Structure",
+            "Problem Solving"
+        ]
     },
     {
         "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+        "category_id": "06",
         "img": "https://logique.s3.ap-southeast-1.amazonaws.com/2021/06/apa-itu-mysql-11.jpg",
-        "name": "My SQL"
+        "name": "MySQL",
+        "details": "Complete MySQL course from beginner to advanced level. Learn to code or start your career in programming with online coding and programming.Master your language with lessons, quizzes, and projects designed for real-life scenarios.",
+        "price": 1000,
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "features": [
+            "Fundamental topics",
+            "MySQL server administration",
+            "How to Use SQL",
+            "Problem Solving"
+        ]
     }
 ]
